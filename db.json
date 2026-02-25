@@ -4,11 +4,6 @@
     tag_number: "K",
     species: "C",
     breed: "B",
-    gender: "M",
-    kraal_assignment: "K1",
-    status: "l",
-    birth_date: "24-",
-    registered_on: "26",
-    updated_on: "26",
+    gender: "M"
   }
 ]
