@@ -1,9 +1,9 @@
 [
   {
     id: 8,
-    tag_number: "K",
-    species: "C",
-    breed: "B",
-    gender: "M"
+    tar: "K",
+    spe: "C",
+    br: "B",
+    ge: "M"
   }
 ]
