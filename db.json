@@ -1,9 +1,10 @@
 [
   {
     id: 8,
-    tar: "K",
-    spe: "C",
-    br: "B",
-    ge: "M"
+    tagNumber: "K01-001",
+    species: "COW",
+    kraalAssignment:"Kraal 1"
+    breed: "Boran",
+    gender: "Male"
   }
 ]
